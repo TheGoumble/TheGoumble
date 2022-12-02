@@ -2,9 +2,9 @@
 
 <h3 align="center">I'm a full-stack developer adding to the digital world one line of code at a time. All my coding projects are either coding challeges I do on my free time or full stack projects I start from the ground up.</h3>
 
-- This is the front-end to my most recent project [Meta Beanie (front end)](https://github.com/TheGoumble/final-project-api)
+- This is the front-end to my most recent project [Meta Beanie (front end)](https://github.com/TheGoumble/final-project-react)
 
-- This is the back-end to my most recent project [Meta Beanie (back end)](https://github.com/TheGoumble/final-project-react)
+- This is the back-end to my most recent project [Meta Beanie (back end)](https://github.com/TheGoumble/final-project-api)
 <br/>
 
 # 
