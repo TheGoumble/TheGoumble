@@ -13,6 +13,11 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/javier-andres-vargas-58136a213/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/javier-andres-vargas-58136a213/" height="30" width="40" /></a>
+ 
+ <a href="www.instagram.com/thegoumble/" target="_blank">
+  <img align="center" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg"
+  alt="instagram link" height="40" width="40"/>
+ </a>
 </p>
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
