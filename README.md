@@ -1,6 +1,7 @@
 <h1 align="center">Hello, I'm Javier Andres Vargas</h1>
 
-<h3 align="center">I'm a full-stack developer adding to the digital world one line of code at a time. All my coding projects are either coding challeges I do on my free time or full stack projects I start from the ground up.</h3>
+<h3 align="center">As a full-stack developer, I am passionate about contributing to the digital world through my expertise in coding. Whether it's a fun little project or a comprehensive full-stack application, I enjoy starting from scratch and building something innovative and functional. With a keen eye for detail and a strong foundation in coding languages, I am confident in my ability to create impactful solutions that meet the needs of clients and users alike.
+</h3>
 
 <br/>
 
